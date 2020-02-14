@@ -15,3 +15,6 @@ None really; just needed to Google Faker.js and syntax. The rest went smoothly.
 
 ## Next steps
 I'd like to build an API with Rails at some point, just because it is still used and semi-popular.
+
+### Further reading
+[Building A Small Node API On Glitch | Tiffany R. White Blog](https://tiffanywhite.dev/2020/01/31/building-a-small-node-api-on-glitch/)
